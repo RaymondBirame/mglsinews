@@ -1,1 +1,1 @@
-# blog-dgi
+# MGLSI-NEWS
