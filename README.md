@@ -1,1 +1,1 @@
-# mglsinews Un application des opérations CRUD sur java 
+# mglsinews une application applican des opérations de types CRUD ave php  
